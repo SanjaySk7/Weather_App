@@ -51,7 +51,10 @@ The app automatically detects your current location (if allowed) to display the 
 8.Demo
 https://sanjaysk7.github.io/Weather_App/
 
-9.Contact
+9.Demo Video
+Also I had given demo video. Kindly watch it for references.
+
+10.Contact
 For any questions or feedback, feel free to contact me at sanjaysubramaniyam2002@gmail.com. 
 
 
